@@ -18,7 +18,7 @@
                             />
                         </svg></span
                     >
-                    oleh <a href="https://suryamsj.my.id">Muhammad Surya J</a>
+                    oleh <a href="https://belajarquran.xyz/">Tofik</a>
                 </p>
             </div>
         </div>
