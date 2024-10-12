@@ -9,13 +9,13 @@
                 height="30"
                 class="d-inline-block align-text-top"
             />
-            Al-Qur'an Digital
+            hafalan Qur'an
         </a>
         <div class="navbar-nav ms-auto">
             <a
                 class="nav-link active"
                 aria-current="page"
-                href="https://github.com/suryamsj/al-quran-digital"
+                href="tofikk.coml"
                 target="_blank"
                 ><svg
                     xmlns="http://www.w3.org/2000/svg"
